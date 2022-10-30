@@ -18,11 +18,11 @@
 
 
 > [!tldr]
-> I have developed long, medium and short terms plans for different institutions, different sports (pelota, soccer, swimming, voleyball…) and different ages and levels (from children to Top professional players).
+> I have developed long, medium and short terms plans for different institutions, different sports (pelota, soccer, swimming, volleyball…) and different ages and levels (from children to Top professional players).
 
 Specially in [[My trajectory in Pelota|Pelota]]
 
-See also: [[Top 1 education on Physical Activity and Sport Science|Top 1 education on Physical Activity and Sport Science]]
+See also: [[Top education in Sport Science|Top education in Sport Science]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
