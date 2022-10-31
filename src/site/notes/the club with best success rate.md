@@ -20,6 +20,8 @@
 > [!tldr]
 > Coach in the club with the best success rate
 
+^1390ed
+
 
 ![](https://static.frontons.net/data/photos/large/wall-26280-ezcaray-la-rioja-spain-2374_0.jpg)
 
