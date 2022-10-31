@@ -30,7 +30,7 @@ Since then I always try to look for new ways to do things better. And not only a
 
 I remember how some players, with the status quo mentality, laughed at me in a friendly way because I invented a way to make the ball hand protection by sewing them together to extend their use. 
 
-A few years later I created a company with [[The first AI for sports training design on acyclic sports|The first AI for sports training design on acyclic sports]]
+A few years later I created a company with [[The first AI for sports training design on acyclic sports\|The first AI for sports training design on acyclic sports]]
 
 
 
@@ -40,7 +40,7 @@ A few years later I created a company with [[The first AI for sports training de
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
