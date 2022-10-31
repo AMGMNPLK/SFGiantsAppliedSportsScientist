@@ -32,7 +32,7 @@ In all these cases, to get the most out of it, you have to think both ways, indi
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
