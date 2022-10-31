@@ -27,7 +27,7 @@ Again, an unsatisfied deprivation appear in my life. That moment of deprivation 
 
 <iframe title="Retegi II-Titin III. Lauterdiko finala 1997. Final del cuatro y medio 1997" src="https://www.youtube.com/embed/xvS2O6cU1KA?feature=oembed" height="150" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;"></iframe>
 
-Fortunately, I had the opportunity to train with him when I was a late teenager and, later, to **be his coach** and even participate in the achievement of his last championship, who played by pairs with [[the club with best success rate#Merino II|Merino II]], one of the other players that we trained:
+Fortunately, I had the opportunity to train with him when I was a late teenager and, later, to **be his coach** and even participate in the achievement of his last championship, who played by pairs with [[the club with best success rate#Merino II\|Merino II]], one of the other players that we trained:
 
 # The last dance
 
@@ -48,7 +48,7 @@ Link: https://www.eitb.eus/es/nahieran/titin-iii-un-antes-y-un-despues/titin-iii
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
