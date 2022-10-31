@@ -30,7 +30,7 @@ I code in Python and C# and a little bit of Racket. I also have knowledge about 
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
