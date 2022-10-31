@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-you-mission-driven-and-passionate-about-helping-others-succeed/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/are-you-mission-driven-and-passionate-about-helping-others-succeed/"}
 ---
 
 
