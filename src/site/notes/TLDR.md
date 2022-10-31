@@ -196,7 +196,7 @@ I was also able to live from inside this institution how the Olympics work, feel
 - [[Are you mission-driven and passionate about helping others succeed❔\|Are you mission-driven and passionate about helping others succeed❔]]
 - [[My English level\|My English level]]
 
-%%
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
