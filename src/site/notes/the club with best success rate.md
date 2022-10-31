@@ -37,7 +37,7 @@ vs
 
 Too many good years those, it will be difficult to repeat them.
 
-One of them, like Merino II, was also the best in his position for a while and many of them achieved some [[LEPM|LEPM]] championships as you can check in their Wikipedia pages. Dario is the latest talent of our club.
+One of them, like Merino II, was also the best in his position for a while and many of them achieved some [[LEPM\|LEPM]] championships as you can check in their Wikipedia pages. Dario is the latest talent of our club.
 
 # Still active
 
@@ -80,7 +80,7 @@ Currently selected for the Spanish Team
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
