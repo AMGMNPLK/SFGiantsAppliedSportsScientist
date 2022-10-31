@@ -20,6 +20,8 @@
 > [!tldr] 
 > I had the honor of being trained on my years as player, and later as coach working with, learning from and having as friend [Joaquín Plaza, a pioneer in Pelota training, who sadly left us last year ](https://www.diariodenavarra.es/noticias/deportes/pelota/2021/08/05/fallece-joaquin-plaza-preparador-pionero-496413-1053.html) and whom I'll never be sufficiently grateful.
 
+^62eb62
+
 
 ![](https://static.larioja.com/www/multimedia/202108/04/media/cortadas/abrazo-U120190565955U3F-U150152428463xsE-624x385@La%20Rioja-LaRioja.jpg)
 
