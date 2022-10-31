@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/working-with-joaquin-plaza/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/working-with-joaquin-plaza/"}
 ---
 
 
