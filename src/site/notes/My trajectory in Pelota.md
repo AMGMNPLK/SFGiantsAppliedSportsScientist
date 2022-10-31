@@ -18,13 +18,13 @@
 
 
 > [!tldr] 
-> In pelota, the sport I worked the most and where I have gained [[Acknowledgement as a coach|Acknowledgement as a coach]] I have [[created teams, clubs and sports schools from scratch since I was 15|created teams, clubs and sports schools from scratch since I was 15]], helped as head coach at the Club de Pelota Ezcaray, [[the club with best success rate|the club with best success rate]], [[trained in the Titin III Pelota Players Training Center|trained in the Titin III Pelota Players Training Center]] and I had the honors of [[Working with Joaquín Plaza|Working with Joaquín Plaza]] and [[Training Titin III, the legend|Training Titin III, the legend]].
+> In pelota, the sport I worked the most and where I have gained [[Acknowledgement as a coach\|Acknowledgement as a coach]] I have [[created teams, clubs and sports schools from scratch since I was 15\|created teams, clubs and sports schools from scratch since I was 15]], helped as head coach at the Club de Pelota Ezcaray, [[the club with best success rate\|the club with best success rate]], [[trained in the Titin III Pelota Players Training Center\|trained in the Titin III Pelota Players Training Center]] and I had the honors of [[Working with Joaquín Plaza\|Working with Joaquín Plaza]] and [[Training Titin III, the legend\|Training Titin III, the legend]].
 
-As an anecdote, I coached the current coach of the Spanish Team, who was also my friend and team partner in some projects in the Bachelor where I was [[Top education in Sport Science|Top education in Sport Science]].
+As an anecdote, I coached the current coach of the Spanish Team, who was also my friend and team partner in some projects in the Bachelor where I was [[Top education in Sport Science\|Top education in Sport Science]].
 
-I am also [[educated in all Pelota modalities|educated in all Pelota modalities]].
+I am also [[educated in all Pelota modalities\|educated in all Pelota modalities]].
 
-Also see: [[Adapted Pelota|Adapted Pelota]]
+Also see: [[Adapted Pelota\|Adapted Pelota]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -33,7 +33,7 @@ Also see: [[Adapted Pelota|Adapted Pelota]]
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
