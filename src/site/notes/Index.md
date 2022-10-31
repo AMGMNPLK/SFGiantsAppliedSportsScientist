@@ -36,7 +36,7 @@ If you want to be sure that you don't miss any note, please, find [[Index#All no
 
 ## Cover letter
 
-<mark style="background: #BBFABBA6;">https://mega.nz/file/I4k21KzR#oNWlZsIl52pLKVnqDqqP9issSSN41aOZKa62DrgrKhA</mark>
+https://mega.nz/file/5pVwQYIC#sp2fbMWl2fj5CnN76vS_Z1szNGyJ2VmiAr3WLsbf4eQ
 
 ## Resume
 
