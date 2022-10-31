@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/train-titin-iii-the-legend/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/train-titin-iii-the-legend/"}
 ---
 
 
