@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-club-with-best-success-rate/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/the-club-with-best-success-rate/"}
 ---
 
 
