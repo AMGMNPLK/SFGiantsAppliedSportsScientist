@@ -19,8 +19,8 @@ Click [[TLDR\|here for a quick TLDR]] of all notes.
 - [[Index#How easily this profiling website works\|#How easily this profiling website works]]
 - [[Index#Cover letter\|#Cover letter]]
 - [[Index#Resume\|#Resume]]
-- [[The Alvaro - job offer fit\|The Alvaro - job offer fit]]
-- [[All notes listed\|All notes listed]]
+- [[Index#The Alvaro - job offer fit\|#The Alvaro - job offer fit]]
+- [[Index#All notes listed\|#All notes listed]]
 
 ## How easily this profiling website works
 
