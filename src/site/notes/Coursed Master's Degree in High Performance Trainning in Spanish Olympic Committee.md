@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coursed-master-s-degree-in-high-performance-trainning-in-spanish-olympic-committee/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/coursed-master-s-degree-in-high-performance-trainning-in-spanish-olympic-committee/"}
 ---
 
 
