@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/created-teams-clubs-and-sports-schools-from-scratch-since-i-was-15/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/created-teams-clubs-and-sports-schools-from-scratch-since-i-was-15/"}
 ---
 
 
