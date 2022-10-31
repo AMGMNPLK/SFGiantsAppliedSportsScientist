@@ -27,7 +27,7 @@ I was a coach at the Titin III Pelota Players Training Center where I could help
 
 ![](C:\Users\alvar\Documents\0 - 🧠 SECOND BRAIN\3 - 📥 INBOX\Justification PIMEX)
 
-# [[Training Titin III, the legend|Titin III, the legend]]
+# [[Training Titin III, the legend\|Titin III, the legend]]
 
 [Titin III - Wikipedia](https://es.wikipedia.org/wiki/Augusto_Ib%C3%A1%C3%B1ez_Sacrist%C3%A1n)
 
@@ -98,7 +98,7 @@ Retired
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
