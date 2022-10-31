@@ -24,12 +24,12 @@ I love being on the cutting edge of sports science and technology. So much so th
 
 So, because of my current job, I am up to date with what is happening in sports technology and have relationships with many of the founders of these startups.
 
-In the purest part about sports science I must mention my past as a researcher in sports science and the [[Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee|Master's Degree in High Performance Trainning]] where we were working with the latest research, even accompanied by many of the researchers themselves as teachers. 
+In the purest part about sports science I must mention my past as a researcher in sports science and the [[Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee\|Master's Degree in High Performance Trainning]] where we were working with the latest research, even accompanied by many of the researchers themselves as teachers. 
 
 See also:
-- [[The first AI for sports training design on acyclic sports|The first AI for sports training design on acyclic sports]]
-- [[Research on Soccer, Pelota and AI for acyclic sports training|Research on Soccer, Pelota and AI for acyclic sports training]]
-- [[My experience as a startup investment manager|My experience as a startup investment manager]]
+- [[The first AI for sports training design on acyclic sports\|The first AI for sports training design on acyclic sports]]
+- [[Research on Soccer, Pelota and AI for acyclic sports training\|Research on Soccer, Pelota and AI for acyclic sports training]]
+- [[My experience as a startup investment manager\|My experience as a startup investment manager]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -38,7 +38,7 @@ See also:
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
