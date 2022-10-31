@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/integrity-leadership-commitment-and-trustworthy-relationships/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/integrity-leadership-commitment-and-trustworthy-relationships/"}
 ---
 
 
