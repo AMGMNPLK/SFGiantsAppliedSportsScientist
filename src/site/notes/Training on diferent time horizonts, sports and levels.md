@@ -20,9 +20,9 @@
 > [!tldr]
 > I have developed long, medium and short terms plans for different institutions, different sports (pelota, soccer, swimming, volleyball…) and different ages and levels (from children to Top professional players).
 
-Specially in [[My trajectory in Pelota|Pelota]]
+Specially in [[My trajectory in Pelota\|Pelota]]
 
-See also: [[Top education in Sport Science|Top education in Sport Science]]
+See also: [[Top education in Sport Science\|Top education in Sport Science]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -31,7 +31,7 @@ See also: [[Top education in Sport Science|Top education in Sport Science]]
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
