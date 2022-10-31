@@ -20,6 +20,8 @@
 > [!tldr] 
 > I had the opportunity to be selected to study the Master in High Performance Training by the Spanish Olympic Committee.
 
+^04e2c1
+
 This Master's Degree has few vacancies and is in great demand by professionals from all Spanish-speaking countries, so they are very demanding in choosing the most deserving students.
 
 ![](https://www.revistalideras.com/wp-content/uploads/2017/11/COE-Alto-Rendimiento.jpg)
