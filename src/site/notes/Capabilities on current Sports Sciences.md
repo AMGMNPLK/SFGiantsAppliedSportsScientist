@@ -17,15 +17,15 @@
 </div></div>
 
 
-[[Top education in Sport Science|Top education in Sport Science]]
-[[Research on Soccer, Pelota and AI for acyclic sports training|Research on Soccer, Pelota and AI for acyclic sports training]]
-[[trained in the Titin III Pelota Players Training Center|trained in the Titin III Pelota Players Training Center]]
-[[Train Titin III, the legend|Train Titin III, the legend]]
-[[Working with Joaquín Plaza|Working with Joaquín Plaza]]
-[[the club with best success rate|the club with best success rate]]
-[[Planning for Richard Oribe|Planning for Richard Oribe]]
-[[Renowned trainer|Renowned trainer]]
-[[Planning in soccer|Planning in soccer]]
+[[Top education in Sport Science\|Top education in Sport Science]]
+[[Research on Soccer, Pelota and AI for acyclic sports training\|Research on Soccer, Pelota and AI for acyclic sports training]]
+[[trained in the Titin III Pelota Players Training Center\|trained in the Titin III Pelota Players Training Center]]
+[[Train Titin III, the legend\|Train Titin III, the legend]]
+[[Working with Joaquín Plaza\|Working with Joaquín Plaza]]
+[[the club with best success rate\|the club with best success rate]]
+[[Planning for Richard Oribe\|Planning for Richard Oribe]]
+[[Renowned trainer\|Renowned trainer]]
+[[Planning in soccer\|Planning in soccer]]
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
