@@ -20,7 +20,7 @@
 > [!tldr]
 > Many titles and years of experience in sports management.
 
-I [[created teams, clubs and sports schools from scratch since I was 15|created teams, clubs and sports schools from scratch since I was 15]].
+I [[created teams, clubs and sports schools from scratch since I was 15\|created teams, clubs and sports schools from scratch since I was 15]].
 
 Also I have:
 
@@ -32,7 +32,7 @@ And I have 15 years of experience as founder and CEO of 3 sport related companie
 
 - Interpool: Swimming pools
 - Sukan: Software for coaches
-- Dairus: [[The first AI for sports training design on acyclic sports|The first AI for sports training design on acyclic sports]]
+- Dairus: [[The first AI for sports training design on acyclic sports\|The first AI for sports training design on acyclic sports]]
 
 I also helped as volunteer to found the Toastmaster Club of Vitoria and the Investors Club 3.0.
 
@@ -56,7 +56,7 @@ Another of my interest are the methodologies focused on management and productiv
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
