@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-you-push-limits-and-challenge-the-status-quo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/do-you-push-limits-and-challenge-the-status-quo/"}
 ---
 
 
