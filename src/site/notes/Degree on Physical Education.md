@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/degree-on-physical-education/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/degree-on-physical-education/"}
 ---
 
 
