@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trained-in-the-titin-iii-pelota-players-training-center/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/trained-in-the-titin-iii-pelota-players-training-center/"}
 ---
 
 
@@ -90,8 +90,6 @@ Retired
 [Rai](https://www.larioja.com/20090310/deportes/pelota/hasta-vista-20090310.html)
 
 Retired
-
-Looking at their Wikipedia pages
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
