@@ -20,6 +20,8 @@
 > [!tldr]
 > I always work by measuring and analyzing data
 
+^23df82
+
 I usually work by planning the measurement mechanisms. Sometimes it is necessary to measure in isolated conditions and others are measured during trainings sessions or matches.
 
 Now, at [[The first AI for sports training design on acyclic sports\|Dairus]], we work with a periodic and selective evaluation system, but we want to make it automatized and in real time.
