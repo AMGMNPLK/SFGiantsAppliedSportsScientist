@@ -27,23 +27,23 @@ In the Bachelor's Degree in Physical Activity and Sports Sciences at the [Univer
 - TOP 1
 - Extraordinary Award to the Best Academic Records
 
-In this Degree I was trained in the Sciences of Physical Activity and Sport that can be applied to all kinds of sport, but I also had some specializations in different sports such as [[My trajectory in Pelota|pelota]], [[Planning in soccer|soccer]], [[Planning in tennis,tennis|Planning in tennis,tennis]], [[Planning for Richard Oribe|swimming]], [[volleyball|volleyball]], so I have already made the adaptation of Sports Sciences to different sports.
+In this Degree I was trained in the Sciences of Physical Activity and Sport that can be applied to all kinds of sport, but I also had some specializations in different sports such as [[My trajectory in Pelota\|pelota]], [[Planning in soccer\|soccer]], [[Planning in tennis,tennis\|Planning in tennis,tennis]], [[Planning for Richard Oribe\|swimming]], [[volleyball\|volleyball]], so I have already made the adaptation of Sports Sciences to different sports.
 
-Moreover, I did [[Planning in soccer|Planning in soccer]], [[Planning for Richard Oribe|planning in swimming]] and in [[Adapted Pelota|Adapted Pelota]].
+Moreover, I did [[Planning in soccer\|Planning in soccer]], [[Planning for Richard Oribe\|planning in swimming]] and in [[Adapted Pelota\|Adapted Pelota]].
 
-# [[Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee|Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee]]
-I also [[Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee|Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee]] to deepen my knowledge of Sports Sciences and its application to other Olympic sports.
+# [[Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee\|Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee]]
+I also [[Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee\|Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee]] to deepen my knowledge of Sports Sciences and its application to other Olympic sports.
 
 ![https://conpaas.einzelnet.com/services/mediaservice/api/media/5517910683c4731a8bdd3b3bf2aa1ceb068cb3e9](https://conpaas.einzelnet.com/services/mediaservice/api/media/5517910683c4731a8bdd3b3bf2aa1ceb068cb3e9)
 # Degree on Physical Education
-[[Degree on Physical Education|Degree on Physical Education]]
+[[Degree on Physical Education\|Degree on Physical Education]]
 
 # Education on management
-[[My trajectory as manager|My trajectory as manager]]
+[[My trajectory as manager\|My trajectory as manager]]
 
 # Experience
-[[My trajectory in Pelota|My trajectory in Pelota]]
-[[Research on Soccer, Pelota and AI for acyclic sports training|Research on Soccer, Pelota and AI for acyclic sports training]]
+[[My trajectory in Pelota\|My trajectory in Pelota]]
+[[Research on Soccer, Pelota and AI for acyclic sports training\|Research on Soccer, Pelota and AI for acyclic sports training]]
 
 
 
@@ -53,7 +53,7 @@ I also [[Coursed Master's Degree in High Performance Trainning in Spanish Olympi
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
