@@ -17,186 +17,64 @@
 </div></div>
 
 
+# All notes listed
 
+## Sports science background
 
-## All notes listed
+TOP education in Sport Sciences
 
-### Sports science background
+I had the opportunity to be selected to study the Master in High Performance Training by the Spanish Olympic Committee.
 
-- 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+## The cutting edge in sports sciences
 
+I live in the edge of the sports science
 
+I created a coaching software company and now we are working on a revolutionary AI that pushes the boundaries of training and high performance.
 
+I have researched soccer, pelota and AI for training in acyclic sports.
 
+Research and Development in sports science is my passion.
 
+I always work by measuring and analyzing data
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+I have some engineering skills
 
+I have a background in statistics
 
+I have skills on coding
 
+I worked as startup investment manager
 
-<font color="#595959">*(To go back, please, use the back button of the navigator.)*</font> 
-^a12d38
+## Experience in sports science
 
+I developed trainings for isolated and grouped players
 
+I helped some professionals players to win the most important championships in the world
 
-</div></div>
+Coach in the club with the best success rate
 
+I had the honor of being trained on my years as player, and later as coach working with, learning from and having as friend [Joaquín Plaza, a pioneer in Pelota training, who sadly left us last year](https://www.diariodenavarra.es/noticias/deportes/pelota/2021/08/05/fallece-joaquin-plaza-preparador-pionero-496413-1053.html) and whom I'll never be sufficiently grateful.
 
+I had the opportunity to train Titin II.
 
-> [!tldr] 
-> TOP education in Sport Sciences
-^bc8851
+I have experience in planning for swimming with the coach of the multiple Paralympic champion.
 
-# Top 1 in Physical Activity and Sports Sciences
-In the Bachelor's Degree in Physical Activity and Sports Sciences at the [University of Basque Country - UPV/EHU](https://www.ehu.eus/es/web/hezkuntza-eta-kirol-fakultatea) one of the most demanding in Spain, I was awarded as:
-- TOP 1
-- Extraordinary Award to the Best Academic Records
+- Selected many years as a commentator of Pelota on TV
+- Interviewed as a referent for the book [Pelota in La Rioja](https://www.libreriadeportiva.com/libro/la-pelota-en-la-rioja_30943)
 
-In this Degree I was trained in the Sciences of Physical Activity and Sport that can be applied to all kinds of sport, but I also had some specializations in different sports such as [[My trajectory in Pelota\|pelota]], [[Planning in soccer\|soccer]], [[Planning in tennis,tennis\|Planning in tennis,tennis]], [[Planning for Richard Oribe\|swimming]], [[volleyball\|volleyball]], so I have already made the adaptation of Sports Sciences to different sports.
+## The person
 
-Moreover, I did [[Planning in soccer\|Planning in soccer]], [[Planning for Richard Oribe\|planning in swimming]] and in [[Adapted Pelota\|Adapted Pelota]].
+Experience working as a team with sports scientist and professionals
 
-# [[Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee\|Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee]]
-I also [[Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee\|Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee]] to deepen my knowledge of Sports Sciences and its application to other Olympic sports.
+I always try to look for new ways to do things better.
 
-![https://conpaas.einzelnet.com/services/mediaservice/api/media/5517910683c4731a8bdd3b3bf2aa1ceb068cb3e9](https://conpaas.einzelnet.com/services/mediaservice/api/media/5517910683c4731a8bdd3b3bf2aa1ceb068cb3e9)
-# Degree on Physical Education
-[[Degree on Physical Education\|Degree on Physical Education]]
+I learned that the best strategy, even for the most egoistical person is not risk your integrity and reputation and lead others to play this win-win game.
 
-# Education on management
-[[My trajectory as manager\|My trajectory as manager]]
+As an educator, coach, manager and entrepreneur I worked on developing skills for effective communication.
 
-# Experience
-[[My trajectory in Pelota\|My trajectory in Pelota]]
-[[Research on Soccer, Pelota and AI for acyclic sports training\|Research on Soccer, Pelota and AI for acyclic sports training]]
+I discovered that my mission was helping other to succeed.
 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-[[Index#Job offer fit\|<-- Back Home]]
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-<font color="#595959">*(To go back, please, use the back button of the navigator.)*</font> 
-^a12d38
-
-
-
-</div></div>
-
-
-</div></div>
-
-
-
-</div></div>
-
-- 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-<font color="#595959">*(To go back, please, use the back button of the navigator.)*</font> 
-^a12d38
-
-
-
-</div></div>
-
-
-> [!tldr] 
-> I had the opportunity to be selected to study the Master in High Performance Training by the Spanish Olympic Committee.
-
-^04e2c1
-
-This Master's Degree has few vacancies and is in great demand by professionals from all Spanish-speaking countries, so they are very demanding in choosing the most deserving students.
-
-![](https://www.revistalideras.com/wp-content/uploads/2017/11/COE-Alto-Rendimiento.jpg)
-
-Besides learning from some of the best professors, scientists and specialists, I was able to share these lessons with many of the best coaches of different sports as classmates.  
-  
-I was also able to live from inside this institution how the Olympics work, feel the Olympic spirit, attend some of the events about the organization, experiences, athletes' lives, masterclasses and specialized symposiums as extracurricular activities.  
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-[[Index#Job offer fit\|<-- Back Home]]
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-<font color="#595959">*(To go back, please, use the back button of the navigator.)*</font> 
-^a12d38
-
-
-
-</div></div>
-
-
-</div></div>
- ^9a0e10
-
-
-</div></div>
-
-- [[Degree on Physical Education\|Degree on Physical Education]]
-
-### The cutting edge in sports sciences
-
-- [[In the edge of the sports science\|In the edge of the sports science]]
-- [[The first AI for sports training design on acyclic sports\|The first AI for sports training design on acyclic sports]]
-- [[Research on Soccer, Pelota and AI for acyclic sports training\|Research on Soccer, Pelota and AI for acyclic sports training]]
-- [[Innovation in sports science\|Innovation in sports science]]
-- [[Sports Science based on data\|Sports Science based on data]]
-- [[Sports engineer\|Sports engineer]]
-- [[My statistics background\|My statistics background]]
-- [[My background as developer\|My background as developer]]
-- [[My experience as a startup investment manager\|My experience as a startup investment manager]]
-
-### Experience in sports science
-
-- [[Individualized training plans\|Individualized training plans]]
-- [[trained in the Titin III Pelota Players Training Center\|trained in the Titin III Pelota Players Training Center]]
-- [[the club with best success rate\|the club with best success rate]]
-- [[Working with Joaquín Plaza\|Working with Joaquín Plaza]]
-- [[Training Titin III, the legend\|Training Titin III, the legend]]
-- [[Planning for Richard Oribe\|Planning for Richard Oribe]]
-- [[Acknowledgement as a coach\|Acknowledgement as a coach]]
-
-### The person
-
-- [[Teamwork with sports scientist and professionals\|Teamwork with sports scientist and professionals]]
-- [[Do you push limits and challenge the status quo❔\|Do you push limits and challenge the status quo❔]]
-- [[Integrity, leadership, commitment and trustworthy relationships\|Integrity, leadership, commitment and trustworthy relationships]]
-- [[Leadership and effective communication\|Leadership and effective communication]]
-- [[Are you mission-driven and passionate about helping others succeed❔\|Are you mission-driven and passionate about helping others succeed❔]]
-- [[My English level\|My English level]]
-
-
+My current English level is C1.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
