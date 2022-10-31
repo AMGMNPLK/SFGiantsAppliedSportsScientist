@@ -34,7 +34,7 @@
 
 In this projects, some led by me and others in collaboration with the Federation, we started from scratch and achieved fully functional and autonomous institutions with supporters base, sponsorships, management team, coaching staff, events...
 
-This news article as an example of how two of this pelota schools continued as an autonomous entity after my departure and with the relief of my partner and friend [[trained in the Titin III Pelota Players Training Center#Merino I|Merino I]]:
+This news article as an example of how two of this pelota schools continued as an autonomous entity after my departure and with the relief of my partner and friend [[trained in the Titin III Pelota Players Training Center#Merino I\|Merino I]]:
 
 https://harodigital.com/noticias/el-club-pelota-haro-a-pleno-rendimiento-a-las-ordenes-de-miguel-merino/
 
@@ -46,7 +46,7 @@ https://harodigital.com/noticias/el-club-pelota-haro-a-pleno-rendimiento-a-las-o
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
