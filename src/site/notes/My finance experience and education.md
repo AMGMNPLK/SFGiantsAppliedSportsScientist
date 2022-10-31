@@ -25,7 +25,7 @@
 <iframe title="#48 - Álvaro Moraza, startups y value investing" src="https://www.youtube.com/embed/y0NTgmwr0UQ?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 *Interview about investment & finance*
 
-Because of [[My trajectory as manager|my education and trajectory on management]] and also because I wanted to learn more about this important area I studied some courses on finance and economy and I started my modest career as a value investor (what I had to delegate to focus on my core value proposition).
+Because of [[My trajectory as manager\|my education and trajectory on management]] and also because I wanted to learn more about this important area I studied some courses on finance and economy and I started my modest career as a value investor (what I had to delegate to focus on my core value proposition).
 
 I also worked part time those days on a private investors club in charge of the dealflow, advisory, investor relationship and management of the investments on startups and small businesses.
 
@@ -38,7 +38,7 @@ The rest of my experience on finance has been as CEO of my company and startups.
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
