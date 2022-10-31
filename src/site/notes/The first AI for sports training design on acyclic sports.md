@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-first-ai-for-sports-training-design-on-acyclic-sports/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/the-first-ai-for-sports-training-design-on-acyclic-sports/"}
 ---
 
 
