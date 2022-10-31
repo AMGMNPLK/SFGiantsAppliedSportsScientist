@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/top-education-in-sport-science/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/top-education-in-sport-science/"}
 ---
 
 
