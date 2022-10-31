@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sports-science-based-on-data/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/sports-science-based-on-data/"}
 ---
 
 
@@ -20,7 +20,11 @@
 > [!tldr]
 > I always work by measuring and analyzing data
 
-I worked with data from:
+I usually work by planning the measurement mechanisms. Sometimes it is necessary to measure in isolated conditions and others are measured during trainings sessions or matches.
+
+Now, at [[The first AI for sports training design on acyclic sports|Dairus]], we work with a periodic and selective evaluation system, but we want to make it automatized and in real time.
+
+I have worked with data from:
 - Physical condition
 	- Tests
 	- Anatomic measures
@@ -30,16 +34,22 @@ I worked with data from:
 	- Blood analytics
 	- Electrostimulation
 	- Speed
+	- Acceleration
 	- Strength
 	- Endurance
 	- Flexibility
+	- Training loads units
 - Technic
 	- Biomechanics
-	- Performance 
+	- Performance
 - Strategy/Tactic
 	- GPS trackers
 	- Relational positions
+	- Ball trajectories
 	- Qualitative motor situation
+	- Qualitative trackers
+	- Match time
+	- Scoreboards
 - Psychological
 	- Psychological analysis
 		- Arousal
@@ -50,21 +60,15 @@ I worked with data from:
 		- Worry management
 		- Confidence and motivation
 		- Coachability
-- Speed
-- Acceleration
-- Match time
-- Qualitative trackers
-- Training loads units
-- Ball trajectories
-- Scoreboards
-
-Soccer research based on data from player condition, GPS trackers, relational positions, qualitative motor situation, hearth rates, speed, acceleration, match time...  
-  
-- Research in basque ball based on data from player condition, MOTS software, qualitative trackers, relational positions, qualitative motor situation, ball trajectories and scoreboard.
 
 Some of my experiences working with data:
 
 [[Research on Soccer, Pelota and AI for acyclic sports training|Research on Soccer, Pelota and AI for acyclic sports training]]
+[[trained in the Titin III Pelota Players Training Center|trained in the Titin III Pelota Players Training Center]]
+[[the club with best success rate|the club with best success rate]]
+[[Train Titin III, the legend|Train Titin III, the legend]]
+[[Working with Joaquín Plaza|Working with Joaquín Plaza]]
+[[Planning for Richard Oribe|Planning for Richard Oribe]]
 [[The first AI for sports training design on acyclic sports|The first AI for sports training design on acyclic sports]]
 
 
