@@ -23,8 +23,8 @@
 
 Research and Development in sports science is my passion, as can be seen in my career. I always try to do things better and knowledge and development of new strategies are the way to beat the rivals. The most related experiences are:
 
-[[The first AI for sports training design on acyclic sports|The first AI for sports training design on acyclic sports]]
-[[Research on Soccer, Pelota and AI for acyclic sports training|Research on Soccer, Pelota and AI for acyclic sports training]]
+[[The first AI for sports training design on acyclic sports\|The first AI for sports training design on acyclic sports]]
+[[Research on Soccer, Pelota and AI for acyclic sports training\|Research on Soccer, Pelota and AI for acyclic sports training]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -33,7 +33,7 @@ Research and Development in sports science is my passion, as can be seen in my c
 
 
 
-[[Index#Job offer fit|<-- Back Home]]
+[[Index#Job offer fit\|<-- Back Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
