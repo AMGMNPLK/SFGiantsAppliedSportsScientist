@@ -36,12 +36,11 @@ If you want to be sure that you don't miss any note, please, find [[Index#All no
 
 ## Cover letter
 
-https://mega.nz/file/5pVwQYIC#sp2fbMWl2fj5CnN76vS_Z1szNGyJ2VmiAr3WLsbf4eQ
+[https://mega.nz/file/5pVwQYIC#sp2fbMWl2fj5CnN76vS_Z1szNGyJ2VmiAr3WLsbf4eQ](https://mega.nz/file/5pVwQYIC#sp2fbMWl2fj5CnN76vS_Z1szNGyJ2VmiAr3WLsbf4eQ)
 
 ## Resume
 
-https://mega.nz/file/4kVVHZxB#68un1Uv1irwNrKaWAI69leKS2tmHxgMyBRZhnpVXY9Y
-
+[https://mega.nz/file/4kVVHZxB#68un1Uv1irwNrKaWAI69leKS2tmHxgMyBRZhnpVXY9Y](https://mega.nz/file/4kVVHZxB#68un1Uv1irwNrKaWAI69leKS2tmHxgMyBRZhnpVXY9Y)
 ## The Alvaro - job offer fit
 
 [[The Alvaro - job offer fit\|The Alvaro - job offer fit]]
