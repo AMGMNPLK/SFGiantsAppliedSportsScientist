@@ -3,7 +3,7 @@
 ---
 
 
-# San Francisco Giants: Applied Sports Scientist
+# San francisco giants: applied sports scientist
 
 Alvaro Moraza application
 
@@ -28,7 +28,7 @@ For a quick view, all notes have a TLDR at the top that display the info in one 
 
 ### Review in argumentation mode
 
-You can find the [[Index#Job offer fit|Job Offer]] below and by clicking on each link, like in Wikipedia, you can see how my skills and experience fit.
+You can find the [[Index#The Alvaro - job offer fit|Job Offer]] below and by clicking on each link, like in Wikipedia, you can see how my skills and experience fit with each requirement.
 
 ### Review as a list
 
@@ -42,13 +42,13 @@ If you want to be sure that you don't miss any note, please, find [[Index#All no
 
 https://mega.nz/file/4kVVHZxB#68un1Uv1irwNrKaWAI69leKS2tmHxgMyBRZhnpVXY9Y
 
-## The Alvaro - job offer fit
+## The alvaro - job offer fit
 
-### Position Summary:
+### Position summary:
 
 The San Francisco Giants are seeking an Applied Sports Scientist to join the Baseball Operations team.  This role will have primary responsibility for the development and implementation of the applied sports science program for the Giants’ organization.
 
-### Position Responsibilities
+### Position responsibilities
 
 - Prioritize [[Capabilities on current Sports Sciences|current]] and [[Innovation in sports science|new sports science initiatives]] to maximize impact on player performance, health, and evaluation.
 - Achieve sports science goals by [[Teamwork with sports scientist and professionals|working in close collaboration with medical department colleagues from across the organization, including athletic trainers, strength and conditioning coaches, physical therapists, nutritionists, and mental skills/health personnel]].
@@ -58,15 +58,15 @@ The San Francisco Giants are seeking an Applied Sports Scientist to join the Bas
 - Ensure consistency and quality across the organization by monitoring and coordinating sports science implementation. [See again: [[Teamwork with sports scientist and professionals|Teamwork with sports scientist and professionals]] and [[Sports Science based on data|Sports Science based on data]]]
 - Collaborate with [[Innovation in sports science|R&D]] to analyze performance and injury data to generate insights that inform sports science programs. [See: [[Innovation in sports science|Innovation in sports science]] and [[Teamwork with sports scientist and professionals|Teamwork with sports scientist and professionals]]]
 - [[Sports engineer|Collaborate with Engineering]] to [[The first AI for sports training design on acyclic sports|develop reports and tools to scale sports science recommendations across the organization]].
-- [[In the edge of the sports science|Help evaluate new technologies related to sports science and stay current on leading-edge sports science literature and concepts]]. 
+- [[In the edge of the sports science|Help evaluate new technologies related to sports science and stay current on leading-edge sports science literature and concepts]].
 - Educate staff and players on critical sports science subjects. [See: [[Leadership and effective communication|Leadership and effective communication]] and [[Degree on Physical Education|Degree on Physical Education]] ]
 
-### Knowledge and Skills:
+### Knowledge and skills:
 
--   Requires a Bachelor's/Master’s degree from an accredited college or university in sports science-related field (e.g. Exercise Science, Sports Science/Kinesiology/Biomechanics).  Ph.D. preferred. [[[See: [[Top education in Sport Science|[See: [[Top education in Sport Science|Top education in Sport Science]] and [[Research on Soccer, Pelota and AI for acyclic sports training|Research on Soccer, Pelota and AI for acyclic sports training]]].
--   Must have strong background in sports science, strength and conditioning, and physiology. NSCA – Certified Strength and Conditioning Specialist/Certified Performance and Sports Scientist preferred. [As a European I did not seek access to the NSCA, but I believe I can be satisfied with my academic training in Europe. In any case, I am open to look into the option of acquiring NSCA certificates.]
--   Minimum 2 years of experience applying sports science at the professional or collegiate level. [I've been coach at [[trained in the Titin III Pelota Players Training Center|the Titin III Pelota Players Training Center]] training some of the best professional players of Pelota, I [[Planning for Richard Oribe|planed trainings with the coach of the multiple times gold medal Richard Oribe]] and I was the head coach of [[the club with best success rate|the club with best success rate]]]
--   Ability to both think/plan strategically and manage/execute at the operational level. [In most of the cases I had to work in both levels, but I had little experiences in only one of them]
+- Requires a Bachelor's/Master’s degree from an accredited college or university in sports science-related field (e.g. Exercise Science, Sports Science/Kinesiology/Biomechanics).  Ph.D. preferred. [[[See: [[Top education in Sport Science|[See: [[Top education in Sport Science|Top education in Sport Science]] and [[Research on Soccer, Pelota and AI for acyclic sports training|Research on Soccer, Pelota and AI for acyclic sports training]]].
+- Must have strong background in sports science, strength and conditioning, and physiology. NSCA – Certified Strength and Conditioning Specialist/Certified Performance and Sports Scientist preferred. [As a European I did not seek access to the NSCA, but I believe I can be satisfied with my academic training in Europe. In any case, I am open to look into the option of acquiring NSCA certificates.]
+- Minimum 2 years of experience applying sports science at the professional or collegiate level. [I've been coach at [[trained in the Titin III Pelota Players Training Center|the Titin III Pelota Players Training Center]] training some of the best professional players of Pelota, I [[Planning for Richard Oribe|planed trainings with the coach of the multiple times gold medal Richard Oribe]] and I was the head coach of [[the club with best success rate|the club with best success rate]]]
+- Ability to both think/plan strategically and manage/execute at the operational level. [In most of the cases I had to work in both levels, but I had little experiences in only one of them]
 - [[My statistics background|Strong background in data management/statistical analytics]].
 - [[My background as developer|Proficient in programming languages preferred]].
 - Exceptional relationship/rapport building skills, including ability to work effectively with wide range of departments, seniority levels, and personalities. [See: [[Leadership and effective communication|Leadership and effective communication]]]
@@ -74,46 +74,41 @@ The San Francisco Giants are seeking an Applied Sports Scientist to join the Bas
 - Position is based in Scottsdale, AZ and will require regular in-season travel to San Francisco, CA and minor league affiliates.
 - Spanish speaking a plus. [I am a native Spanish speaker]
 
-
 ## All notes listed
 
-### Sports science
+### Sports science background
 
 - [[Top education in Sport Science]]
-- [[The first AI for sports training design on acyclic sports|The first AI for sports training design on acyclic sports]]
-- [[Research on Soccer, Pelota and AI for acyclic sports training|Research on Soccer, Pelota and AI for acyclic sports training]]
 - [[Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee|Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee]]
 - [[Degree on Physical Education|Degree on Physical Education]]
-- [[Training on diferent time horizonts, sports and levels|Training on diferent time horizonts, sports and levels]]
-- [[Acknowledgement as a coach|Acknowledgement as a coach]]
 
-### Management
+### The cutting edge in sports sciences
 
-- [[My trajectory as manager|My trajectory as manager]]
-- [[created teams, clubs and sports schools from scratch since I was 15|created teams, clubs and sports schools from scratch since I was 15]]
-- [[Collaboration with Federations and Olympics Institutions|Collaboration with Federations and Olympics Institutions]]
-- [[My finance experience and education|My finance experience and education]]
-- [[selection procedures|selection procedures]]
+- [[In the edge of the sports science|In the edge of the sports science]]
+- [[The first AI for sports training design on acyclic sports|The first AI for sports training design on acyclic sports]]
+- [[Research on Soccer, Pelota and AI for acyclic sports training|Research on Soccer, Pelota and AI for acyclic sports training]]
+- [[Innovation in sports science|Innovation in sports science]]
+- [[Sports Science based on data|Sports Science based on data]]
+- [[Sports engineer|Sports engineer]]
+- [[My statistics background|My statistics background]]
+- [[My background as developer|My background as developer]]
+- [[My experience as a startup investment manager|My experience as a startup investment manager]]
 
-### Olympics and paralympics
+### Experience in sports science
 
-- [[Adapted Pelota|Adapted Pelota]]
-- [[Planning for Richard Oribe|Planning for Richard Oribe]]
-- [[Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee|Coursed Master's Degree in High Performance Trainning in Spanish Olympic Committee]]
-- [[Collaboration with Federations and Olympics Institutions|Collaboration with Federations and Olympics Institutions]]
-
-### Pelota
-
-- [[My trajectory in Pelota|My trajectory in Pelota]]
+- [[Individualized training plans|Individualized training plans]]
 - [[trained in the Titin III Pelota Players Training Center|trained in the Titin III Pelota Players Training Center]]
 - [[the club with best success rate|the club with best success rate]]
 - [[Working with Joaquín Plaza|Working with Joaquín Plaza]]
 - [[Training Titin III, the legend|Training Titin III, the legend]]
-- [[educated in all Pelota modalities|educated in all Pelota modalities]]
+- [[Planning for Richard Oribe|Planning for Richard Oribe]]
+- [[Acknowledgement as a coach|Acknowledgement as a coach]]
 
 ### The person
 
+- [[Teamwork with sports scientist and professionals|Teamwork with sports scientist and professionals]]
 - [[Do you push limits and challenge the status quo❔|Do you push limits and challenge the status quo❔]]
 - [[Integrity, leadership, commitment and trustworthy relationships|Integrity, leadership, commitment and trustworthy relationships]]
 - [[Leadership and effective communication|Leadership and effective communication]]
 - [[Are you mission-driven and passionate about helping others succeed❔|Are you mission-driven and passionate about helping others succeed❔]]
+- [[My English level|My English level]]
