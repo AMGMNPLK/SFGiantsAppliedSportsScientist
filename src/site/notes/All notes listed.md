@@ -34,6 +34,7 @@
 - [[Sports Science based on data\|Sports Science based on data]]
 - [[Sports engineer\|Sports engineer]]
 - [[My statistics background\|My statistics background]]
+- [[My artificial intelligence background\|My artificial intelligence background]]
 - [[My background as developer\|My background as developer]]
 - [[My experience as a startup investment manager\|My experience as a startup investment manager]]
 
