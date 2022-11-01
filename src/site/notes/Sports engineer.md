@@ -21,8 +21,6 @@
 > [!tldr]
 > I have some engineering skills
 
-^b6d4f7
-
 In my career in [[Innovation in sports science\|Innovation in sports science]] I saw that the best strategy is to bet for the technology. For this reason and because of my passion for engineering I expanded my knowledge to the STEAM field.
 
 I learn about how to innovate through technology, how to code, math, machine learning, statistics,  data science, I started my first company about software for coaches (Sukan) and later I created another one about AI for sports, [[The first AI for sports training design on acyclic sports\|The first AI for sports training design on acyclic sports]] (Dairus).
