@@ -20,8 +20,6 @@
 > [!tldr] 
 > I helped some professionals players to win the most important championships in the world
 
-^6668de
-
 
 ![](https://i.imgur.com/1FYWDvV.jpg)
 
