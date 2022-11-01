@@ -21,8 +21,6 @@
 > [!tldr]
 > I had the opportunity to train Titin II.
 
-^13a384
-
 I have been very fortunate because I felt in love of sports thank you to this player, Titín III. He was my idol when I was a child, but, when I was eleven, in a final, the best match ever, he lost against the best player till those moment.
 
 Again, an unsatisfied deprivation appear in my life. That moment of deprivation of the winning, but the euphoria of seen that beauty in a match. That contrast of feelings, and almost a Stendhal Syndrome, made my **fall in love of this sport**.
